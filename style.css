@@ -1,6 +1,9 @@
 .collapse{
     justify-content: flex-end;
 }
+.navbar-toggler{
+    background-color: #fff !important;
+}
 .main{
     height: 100%;
     display: flex;
